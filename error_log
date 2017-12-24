@@ -1,0 +1,184 @@
+[11-Aug-2017 10:51:21 America/New_York] PHP Warning:  require(/includes/header.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 1
+[11-Aug-2017 10:51:21 America/New_York] PHP Fatal error:  require(): Failed opening required '/includes/header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 1
+[11-Aug-2017 10:53:07 America/New_York] PHP Warning:  require(/includes/header.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 1
+[11-Aug-2017 10:53:07 America/New_York] PHP Fatal error:  require(): Failed opening required '/includes/header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 1
+[11-Aug-2017 10:53:36 America/New_York] PHP Warning:  require(/includes/header.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 1
+[11-Aug-2017 10:53:36 America/New_York] PHP Fatal error:  require(): Failed opening required '/includes/header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 1
+[11-Aug-2017 10:58:55 America/New_York] PHP Warning:  require(/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[11-Aug-2017 10:58:55 America/New_York] PHP Fatal error:  require(): Failed opening required '/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[11-Aug-2017 12:05:24 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/torrentsoftware/public_html/controllers/static-controller.php on line 10
+[11-Aug-2017 12:06:47 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/controllers/static-controller.php on line 10
+[11-Aug-2017 12:06:48 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/controllers/static-controller.php on line 10
+[11-Aug-2017 12:07:17 America/New_York] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/torrentsoftware/public_html/includes/header.php on line 12
+[11-Aug-2017 14:21:28 America/New_York] PHP Fatal error:  Cannot redeclare class Flight in /home/torrentsoftware/public_html/flight/Flight.php on line 53
+[11-Aug-2017 14:59:05 America/New_York] PHP Warning:  require(./models/db.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/models/User.php on line 2
+[11-Aug-2017 14:59:05 America/New_York] PHP Warning:  require(./models/db.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/models/User.php on line 2
+[11-Aug-2017 14:59:05 America/New_York] PHP Fatal error:  require(): Failed opening required './models/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/models/User.php on line 2
+[11-Aug-2017 15:04:02 America/New_York] PHP Fatal error:  Call to undefined method User::get_all_users() in /home/torrentsoftware/public_html/controllers/user-controller.php on line 21
+[11-Aug-2017 15:04:17 America/New_York] PHP Fatal error:  Cannot access protected property DB::$pdo in /home/torrentsoftware/public_html/models/User.php on line 36
+[11-Aug-2017 15:08:36 America/New_York] PHP Fatal error:  Cannot redeclare User::get_user_id() in /home/torrentsoftware/public_html/models/User.php on line 40
+[11-Aug-2017 15:08:40 America/New_York] PHP Fatal error:  Cannot redeclare User::get_user_id() in /home/torrentsoftware/public_html/models/User.php on line 40
+[11-Aug-2017 16:32:34 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/torrentsoftware/public_html/models/User.php on line 70
+[11-Aug-2017 16:34:10 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 13
+[11-Aug-2017 16:49:50 America/New_York] PHP Fatal error:  Call to private method User::login() from context '' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 10
+[11-Aug-2017 16:50:08 America/New_York] PHP Fatal error:  Call to protected method User::login() from context '' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 10
+[11-Aug-2017 17:33:47 America/New_York] PHP Fatal error:  Unsupported operand types in /home/torrentsoftware/public_html/models/User.php on line 27
+[11-Aug-2017 17:34:50 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/torrentsoftware/public_html/models/User.php on line 27
+[18-Aug-2017 10:19:33 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:19:33 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:19:34 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:19:35 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:19:36 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:25:38 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:25:39 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 10:54:13 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/torrentsoftware/public_html/includes/header.php on line 2
+[18-Aug-2017 12:53:19 America/New_York] PHP Fatal error:  Function name must be a string in /home/torrentsoftware/public_html/controllers/user-controller.php on line 12
+[18-Aug-2017 13:00:54 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/models/User.php on line 87
+[18-Aug-2017 13:00:55 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/models/User.php on line 87
+[18-Aug-2017 13:10:35 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:10:35 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:11:07 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:11:08 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:11:38 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:11:39 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:15:21 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:15:21 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 19
+[18-Aug-2017 13:15:31 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 13:15:32 America/New_York] PHP Parse error:  syntax error, unexpected 'Flight' (T_STRING) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 18
+[18-Aug-2017 13:25:37 America/New_York] PHP Fatal error:  Cannot redeclare class DB in /home/torrentsoftware/public_html/models/DB.php on line 2
+[18-Aug-2017 13:25:38 America/New_York] PHP Fatal error:  Cannot redeclare class DB in /home/torrentsoftware/public_html/models/DB.php on line 2
+[18-Aug-2017 13:26:28 America/New_York] PHP Fatal error:  Class 'User' not found in /home/torrentsoftware/public_html/controllers/user-controller.php on line 11
+[18-Aug-2017 15:25:04 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 22
+[18-Aug-2017 15:25:04 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 22
+[18-Aug-2017 15:25:05 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 22
+[18-Aug-2017 16:59:25 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[18-Aug-2017 16:59:25 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[18-Aug-2017 16:59:25 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[18-Aug-2017 16:59:26 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[18-Aug-2017 16:59:26 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[18-Aug-2017 16:59:26 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 12:33:02 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 12:33:02 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 12:33:02 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 12:33:02 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 12:33:02 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 12:33:02 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 17:03:31 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 17:03:31 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 17:03:31 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 20:54:31 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 20:54:31 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[19-Aug-2017 20:54:31 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:24:37 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:24:37 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:24:37 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:24:38 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:24:38 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:24:38 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:12 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:12 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:12 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:13 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:13 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:13 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:15 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:15 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:15 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:15 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:15 America/New_York] PHP Warning:  require(./flight/flight/Flight.php): failed to open stream: No such file or directory in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:26:15 America/New_York] PHP Fatal error:  require(): Failed opening required './flight/flight/Flight.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/torrentsoftware/public_html/index.php on line 2
+[21-Aug-2017 09:57:40 America/New_York] PHP Fatal error:  Call to undefined function get_login_count() in /home/torrentsoftware/public_html/models/User.php on line 92
+[21-Aug-2017 10:02:26 America/New_York] PHP Fatal error:  Unsupported operand types in /home/torrentsoftware/public_html/models/User.php on line 92
+[21-Aug-2017 10:08:35 America/New_York] PHP Fatal error:  Call to undefined method User::login_count() in /home/torrentsoftware/public_html/controllers/user-controller.php on line 10
+[21-Aug-2017 10:19:45 America/New_York] PHP Fatal error:  Unsupported operand types in /home/torrentsoftware/public_html/models/User.php on line 93
+[21-Aug-2017 10:26:10 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 27
+[21-Aug-2017 10:26:11 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 27
+[21-Aug-2017 10:28:12 America/New_York] PHP Fatal error:  Call to undefined function get_user_id() in /home/torrentsoftware/public_html/models/User.php on line 107
+[21-Aug-2017 10:28:31 America/New_York] PHP Fatal error:  Call to undefined function password_hash() in /home/torrentsoftware/public_html/models/User.php on line 54
+[21-Aug-2017 11:22:27 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:22:27 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:22:28 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:23:10 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:23:11 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:24:02 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:24:03 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:24:04 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:24:05 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:24:24 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:24:25 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:25:40 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:25:41 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:15 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:16 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:17 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:18 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:18 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:19 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:20 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:20 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:21 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:21 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:21 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:21 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:21 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:21 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:22 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:27:22 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:28:28 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:28:32 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:28:35 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:28:35 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:28:37 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:28:37 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:29:50 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 28
+[21-Aug-2017 11:29:51 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/torrentsoftware/public_html/controllers/user-controller.php on line 28
+[21-Aug-2017 11:32:27 America/New_York] PHP Fatal error:  Call to private method User::find_user() from context '' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:33:50 America/New_York] PHP Fatal error:  Call to private method User::find_user() from context '' in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[21-Aug-2017 11:38:06 America/New_York] PHP Fatal error:  Cannot break/continue 1 level in /home/torrentsoftware/public_html/controllers/user-controller.php on line 29
+[21-Aug-2017 11:58:03 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/torrentsoftware/public_html/models/User.php on line 136
+[21-Aug-2017 11:58:03 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/torrentsoftware/public_html/models/User.php on line 136
+[23-Aug-2017 10:43:21 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 5
+[23-Aug-2017 10:43:22 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 5
+[23-Aug-2017 10:48:38 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 5
+[23-Aug-2017 10:48:38 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 5
+[24-Aug-2017 16:47:34 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/models/User.php on line 137
+[24-Aug-2017 16:47:51 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/torrentsoftware/public_html/models/User.php on line 137
+[24-Aug-2017 17:06:58 America/New_York] PHP Fatal error:  Call to undefined method User::is_registered() in /home/torrentsoftware/public_html/controllers/user-controller.php on line 25
+[24-Aug-2017 17:57:22 America/New_York] PHP Fatal error:  Call to undefined function get_user_id() in /home/torrentsoftware/public_html/models/User.php on line 85
+[25-Aug-2017 10:19:47 America/New_York] PHP Fatal error:  Call to undefined method User::incret_login_count() in /home/torrentsoftware/public_html/models/User.php on line 87
+[25-Aug-2017 10:35:15 America/New_York] PHP Fatal error:  Unsupported operand types in /home/torrentsoftware/public_html/models/User.php on line 135
+[25-Aug-2017 10:36:17 America/New_York] PHP Fatal error:  Unsupported operand types in /home/torrentsoftware/public_html/models/User.php on line 135
+[25-Aug-2017 14:38:15 America/New_York] PHP Fatal error:  Call to undefined method User::get_session_token() in /home/torrentsoftware/public_html/controllers/user-controller.php on line 8
+[25-Aug-2017 14:39:20 America/New_York] PHP Fatal error:  Call to undefined function redirect() in /home/torrentsoftware/public_html/controllers/user-controller.php on line 6
+[25-Aug-2017 15:12:30 America/New_York] PHP Fatal error:  Class 'Diagnosis' not found in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 19
+[25-Aug-2017 15:13:46 America/New_York] PHP Parse error:  syntax error, unexpected 'get_diagnosis' (T_STRING), expecting variable (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 4
+[25-Aug-2017 15:14:06 America/New_York] PHP Parse error:  syntax error, unexpected 'add_diagnosis' (T_STRING), expecting variable (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 6
+[28-Aug-2017 15:13:07 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/torrentsoftware/public_html/models/Diagnosis.php on line 39
+[28-Aug-2017 15:13:19 America/New_York] PHP Fatal error:  Unsupported operand types in /home/torrentsoftware/public_html/models/Diagnosis.php on line 39
+[28-Aug-2017 17:34:40 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/controllers/static-controller.php on line 49
+[28-Aug-2017 17:48:45 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/torrentsoftware/public_html/views/register.php on line 5
+[29-Aug-2017 09:32:58 America/New_York] PHP Fatal error:  Call to undefined method Diagnosis::get_diagnoses() in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 41
+[30-Aug-2017 16:36:23 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 103
+[30-Aug-2017 16:41:23 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 89
+[30-Aug-2017 16:41:23 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 89
+[30-Aug-2017 16:41:59 America/New_York] PHP Parse error:  syntax error, unexpected '$columns' (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 90
+[30-Aug-2017 16:42:10 America/New_York] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 121
+[05-Sep-2017 18:23:33 America/New_York] PHP Parse error:  syntax error, unexpected 'get_diagnostic_content' (T_STRING), expecting variable (T_VARIABLE) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 117
+[05-Sep-2017 18:32:46 America/New_York] PHP Parse error:  syntax error, unexpected ''code'' (T_CONSTANT_ENCAPSED_STRING) in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 75
+[05-Sep-2017 18:55:41 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/torrentsoftware/public_html/models/Diagnosis.php on line 130
+[05-Sep-2017 19:30:00 America/New_York] PHP Parse error:  syntax error, unexpected 'c' (T_STRING) in /home/torrentsoftware/public_html/models/Diagnosis.php on line 137
+[05-Sep-2017 20:44:54 America/New_York] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/torrentsoftware/public_html/views/care-plan.php on line 94
+[05-Sep-2017 21:29:58 America/New_York] PHP Fatal error:  Call to undefined function redirect() in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 86
+[05-Sep-2017 21:43:08 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/torrentsoftware/public_html/views/care-plan.php on line 99
+[06-Sep-2017 10:00:39 America/New_York] PHP Fatal error:  Cannot redeclare Diagnosis::update_diagnostic_content() in /home/torrentsoftware/public_html/models/Diagnosis.php on line 172
+[06-Sep-2017 14:53:58 America/New_York] PHP Parse error:  syntax error, unexpected '?>' in /home/torrentsoftware/public_html/views/view-users.php on line 25
+[20-Sep-2017 17:09:47 America/New_York] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/torrentsoftware/public_html/views/diagnostic-code.php on line 16
+[20-Sep-2017 17:10:25 America/New_York] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/torrentsoftware/public_html/views/diagnostic-code.php on line 19
+[20-Sep-2017 17:10:36 America/New_York] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/torrentsoftware/public_html/views/diagnostic-code.php on line 19
+[20-Sep-2017 17:19:07 America/New_York] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/torrentsoftware/public_html/views/add-phase.php on line 15
+[22-Sep-2017 15:50:58 America/New_York] PHP Fatal error:  Call to undefined method Diagnosis::get_phase_by_code_id() in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 173
+[22-Sep-2017 16:25:56 America/New_York] PHP Fatal error:  Call to private method Diagnosis::delete_phases_for_diagnosis() from context '' in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 75
+[22-Sep-2017 17:47:00 America/New_York] PHP Fatal error:  Call to a member function lastInsertId() on a non-object in /home/torrentsoftware/public_html/controllers/diagnostics-controller.php on line 182
+[22-Sep-2017 17:49:38 America/New_York] PHP Fatal error:  Call to undefined method DB::query() in /home/torrentsoftware/public_html/models/Diagnosis.php on line 160
+[22-Sep-2017 17:52:10 America/New_York] PHP Fatal error:  Call to undefined method DB::lastInsertId() in /home/torrentsoftware/public_html/models/Diagnosis.php on line 114
+[22-Sep-2017 17:58:32 America/New_York] PHP Fatal error:  Call to a member function lastInsertId() on a non-object in /home/torrentsoftware/public_html/models/Diagnosis.php on line 120
