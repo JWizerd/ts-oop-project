@@ -1,10 +1,10 @@
 <?php 
   class DB {
 
-    protected $host    = '50.28.38.41';
-    protected $db      = 'torrents_db';
-    protected $user    = 'torrents_user';
-    protected $pass    = '%5tiGq{&fD+Q';
+    protected $host    = '';
+    protected $db      = '';
+    protected $user    = '';
+    protected $pass    = '';
     protected $charset = 'utf8';
     public $pdo;
     
